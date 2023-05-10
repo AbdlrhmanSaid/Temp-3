@@ -32,7 +32,7 @@ function startCount(el) {
     }
   }, 2000 / goal);
 }
-let countDownDate = new Date("May 10 , 2023 23:59:59").getTime();
+let countDownDate = new Date("Dec 31 , 2023 23:59:59").getTime();
 
 let counter = setInterval(() => {
   // get date now
